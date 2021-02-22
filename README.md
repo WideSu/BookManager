@@ -1,2 +1,3 @@
 # BookManager
-一个图书馆管理系统
+It's a java Qt application that can CRUD books, which is my Java course's final project.
+
